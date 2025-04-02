@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "eb0fd77c51b2f77a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f311c224de43757f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c37df68743db099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academy/19. Windows Privilege Escalation/19.8. Additional Techniques/19.8.3. Miscellaneous Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19.8.3. Miscellaneous Techniques"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cf4c4210bf4690c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8054873336e3231c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e6975a1a1f7058",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be14d85e1017010f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aie.m",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ead4037d3690ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "0c6d8d32e7d19a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "4416d3ecf4ab13a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f0777a117745030",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academy/1. Network Enumeration/1. Network Enumeration with Nmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Network Enumeration with Nmap"
+            }
+          },
+          {
+            "id": "05be17e16c669737",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Academy/1. Network Enumeration/1. Network Enumeration with Nmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Network Enumeration with Nmap"
+            }
+          },
+          {
+            "id": "59fd9570fc61944e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bbc7c5d91c4aa22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Academy/1. Network Enumeration/1. Network Enumeration with Nmap.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Network Enumeration with Nmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75e6975a1a1f7058",
+  "lastOpenFiles": [
+    "Academy/17. Attacking Common Application/17.8. Miscellaneous Applications/17.8.3. LDAP/17.8.3.1. LDAP Enum & Attack.md",
+    "Fox/MalwareTrafficAnalysis/Big Fish In A Little Pond.md",
+    "Academy/9. Active Directory Enum & Attacks/7. Lateral Movement/3. Bleeding Edge Vulnerabilities.md",
+    "Academy/19. Windows Privilege Escalation/19.2. Getting The Lay of The Land/19.2.1. Situational Awareness.md",
+    "Academy/19. Windows Privilege Escalation/19.1. Useful Tools/19.1.1. Tools.md",
+    "Academy/19. Windows Privilege Escalation/19.3. Windows User Privileges/19.3.1. Windows Privileges Overview.md",
+    "Academy/19. Windows Privilege Escalation/19.2. Getting The Lay of The Land/19.2.3. Communcation with Processes.md",
+    "Academy/19. Windows Privilege Escalation/19.2. Getting The Lay of The Land/19.2.2. Initial Enumeration.md",
+    "Academy/19. Windows Privilege Escalation/19.3. Windows User Privileges/19.3.2. SeImpersonate and SeAssignPrimaryToken.md",
+    "Academy/19. Windows Privilege Escalation/19.3. Windows User Privileges/19.3.3. SeDebugPrivilege.md",
+    "Academy/19. Windows Privilege Escalation/19.5. Attacking the OS/19.5.4. Vulnerable Services.md",
+    "Academy/19. Windows Privilege Escalation/19.5. Attacking the OS/19.5.3. Kernel Exploits.md",
+    "Academy/19. Windows Privilege Escalation/19.5. Attacking the OS/19.5.1. User Account Control.md",
+    "Academy/19. Windows Privilege Escalation/19.5. Attacking the OS/19.5.2. Weak Permissions.md",
+    "Fox/SplunkHTB/Introduction To Splunk & SPL.md",
+    "Academy/15. Command Injection/1. Detection.md",
+    "Academy/15. Command Injection/2. Bypassing Other Blacklisted Characters.md",
+    "Academy/15. Command Injection/5. Command Injection Prevention.md",
+    "Academy/19. Windows Privilege Escalation/19.10. Windows Hardening/19.10.1. Hardening.md",
+    "Academy/19. Windows Privilege Escalation/19.9. EOL System/19.9.2. Windows Desktop.md",
+    "Academy/19. Windows Privilege Escalation/19.10. Windows Hardening",
+    "Academy/19. Windows Privilege Escalation/19.9. EOL System/19.9.1. Windows Server.md",
+    "Academy/19. Windows Privilege Escalation/19.8. Additional Techniques/19.8.3. Miscellaneous Techniques.md",
+    "Academy/19. Windows Privilege Escalation/19.9. EOL System",
+    "Academy/4. File Transfers/Windows File Transfer Methods/Download/SMB/SMB Downloads.md",
+    "Academy/4. File Transfers/Windows File Transfer Methods/Upload/SMB/SMB Uploads.md",
+    "Academy/4. File Transfers/Windows File Transfer Methods/Upload/PowerShell/PowerShell File Transfer.md",
+    "Academy/4. File Transfers/Windows File Transfer Methods/Upload/FTP/FTP Uploads.md",
+    "Academy/19. Windows Privilege Escalation/19.8. Additional Techniques",
+    "Academy/19. Windows Privilege Escalation/19.7. Restricted Environments",
+    "Academy/19. Windows Privilege Escalation/19.6. Credential Theft",
+    "Academy/19. Windows Privilege Escalation/19.5. Attacking the OS",
+    "Academy/19. Windows Privilege Escalation/19.4. Windows Group Privileges",
+    "Academy/19. Windows Privilege Escalation/19.3. Windows User Privileges",
+    "Academy/19. Windows Privilege Escalation/19.2. Getting The Lay of The Land",
+    "Academy/19. Windows Privilege Escalation/19.1. Useful Tools"
+  ]
+}
